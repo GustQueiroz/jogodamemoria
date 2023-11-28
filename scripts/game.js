@@ -1,15 +1,15 @@
 let game = {
   avengers: [
-    "captainAmerica",
-    "ironMan",
-    "thor",
-    "hulk",
-    "blackWidow",
-    "deadpool",
-    "spiderMan",
-    "groot",
-    "hawkeye",
-    "nickFury",
+    "comida1",
+    "comida2",
+    "comida3",
+    "comida4",
+    "comida5",
+    "comida6",
+    "comida7",
+    "comida8",
+    "comida9",
+    "comida10",
   ],
 
   lockMode: true, //carta bloqueada enquanto o par não for encontrado
